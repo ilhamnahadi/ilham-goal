@@ -1,1 +1,2 @@
-# ilham-goal text
+# ilham-goal 
+Repository untuk menyimpan goal ilham kedepan
